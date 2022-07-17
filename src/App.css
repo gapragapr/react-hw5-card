@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  width: 360px;
+  margin: auto;
+  margin-top: 150px;
+  border: 1px solid #cacaca;
+  padding: 15px;
+  box-sizing: border-box;
+}
+img{
+  max-width: 330px;
+}
+button{
+  padding: 7px 15px;
+  background-color: rgb(0, 123, 255);
+  color: #fff;
+  border: none;
+}
+button:hover{
+  background-color: rgba(0, 123, 255, 0.9);
+}
